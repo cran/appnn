@@ -1,0 +1,5 @@
+S3method(appnn, default)
+S3method(print, appnn)
+S3method(plot, appnn)
+exportPattern("^[[:alpha:]]+")
+importFrom("graphics", "abline", "axis", "lines", "par", "plot")
