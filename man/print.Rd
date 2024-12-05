@@ -21,5 +21,3 @@ sequences <- c('STVIIE','KKSSTT','KYSTVI')
 predictions <- appnn(sequences)
 print(predictions)
 }
-\keyword{ ~kwd1 }
-\keyword{ ~kwd2 }

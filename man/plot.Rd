@@ -23,5 +23,3 @@ sequences <- c('STVIIE','KKSSTT','KYSTVI')
 predictions <- appnn(sequences)
 plot(predictions,c(1,2,3))
 }
-\keyword{ ~kwd1 }
-\keyword{ ~kwd2 }

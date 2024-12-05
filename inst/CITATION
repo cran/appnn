@@ -1,0 +1,16 @@
+## R package reference generated from DESCRIPTION metadata
+citation(auto = meta)
+
+## Published paper
+bibentry(bibtype="article",
+		 title = "Prediction of Peptide and Protein Propensity for Amyloid Formation", 
+		 author = c(person("Carlos", "Família"), person(c("Sarah", "R."),"Dennison"), person("Alexandre", "Quintas"),person(c("David", "A."), "Phoenix")),
+		 journal = "PLoS ONE", 
+		 doi = "10.1371/journal.pone.0134679", 
+		 pmid = "26241652", 
+		 pmcid = "PMC4524629", 
+		 year = "2015",
+		 pages = "e0134679", 
+		 number = 8, 
+		 volume = 10, 
+		 month = 8)

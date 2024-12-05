@@ -22,8 +22,8 @@ is found within the sequence.
 \tabular{ll}{
 Package: \tab appnn\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2015-04-13\cr
+Version: \tab 1.0-1\cr
+Date: \tab 2024-12-05\cr
 License: \tab GPL-3\cr
 }
 The amyloidogenic propensity prediction neural network is composed by three functions, the function appnn
@@ -35,7 +35,8 @@ Carlos Família, Sarah R. Dennison, Alexandre Quintas, David A. Phoenix
 
 Maintainer: Carlos Família <carlosfamilia@gmail.com>
 }
-\references{ Manuscript under review.
+\references{ 
+    Família, C., Dennison, S. R., Quintas, A. & Phoenix, D. A. Prediction of Peptide and Protein Propensity for Amyloid Formation. Plos One 10, e0134679 (2015).
 }
 \keyword{ package }
 \examples{

@@ -27,5 +27,3 @@ Carlos Família, Sarah R. Dennison, Alexandre Quintas, David A. Phoenix
 sequences <- c('STVIIE','KKSSTT','KYSTVI')
 predictions <- appnn(sequences)
 }
-\keyword{ ~kwd1 }
-\keyword{ ~kwd2 }
